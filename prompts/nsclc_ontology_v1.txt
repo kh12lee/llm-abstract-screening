@@ -1,0 +1,9 @@
+Research Hypothesis and Objectives; This file is a list of abstracts for meta-analysis, aiming to identify studies that evaluate the oncologic benefit of local ablative treatment (LAT, e.g., surgery, radiotherapy, RFA), versus standard of care (e.g., systemic treatment or supportive care), in oligometastatic NSCLC patients.
+
+Ontology; LAT refers to local treatment including metastatic and/or primary sites (radiotherapy, surgery, radiofrequency ablation). LAT is closely aligned with local consolidative therapy (LCT). The control arm is a group without LAT (often systemic therapy or best supportive care). Oligometastases includes oligorecurrence, oligopersistence, and oligoresidual disease; some papers say “limited metastases.”
+
+Criteria:
+Inclusion (all must be potentially met):
+  I1) A comparative study with a LAT arm vs a standard of care (non-LAT) arm.
+  I2) ≥10 oligometastatic NSCLC patients per arm.
+  I3) OS or PFS reported as a primary endpoint (or clearly analyzable).

@@ -1,0 +1,10 @@
+Research Hypothesis and Objectives ;This file is a list of abstracts for meta-analysis. The hypothetical question of this meta-analysis is: “In extrahepatic 
+cholangiocarcinoma, does application of adjuvant radiotherapy (ART) after surgical resection has benefit on patients as compared to those did not undergo ART, 
+in regard of overall survival?”. 
+
+Ontology: Definition of Key Terms and Links to Existing Terminology; Adjuvant radiotherapy refers to radiotherapy used after curative or near-curative surgery (including R1 resection) with the purpose of reducing recurrence, and radiotherapy administered in cases of unresectable disease or palliative situations (including R2 resection) is not considered adjuvant radiotherapy. Extrahepatic cholangiocarcinoma is synonymous with Klatskin’s tumor, and extrahepatic bile duct cancer. It can be described in the literature as cholangiocarcinoma, periampullary cancer, ampulla of Vater cancer, biliary tract cancer, or bile duct cancer. However, studies of pancreatic cancer, gallbladder cancer, or intrahepatic cholangiocarcinoma are excluded. 
+
+Inclusion Criteria
+1) clinical studies on extrahepatic cholangiocarcinoma, having comparative survival data according to use of adjuvant radiotherapy. 
+2) inclusion of 10 or more patients who underwent radiotherapy; 
+3) Each comparative arm (with and without radiotherapy) include 5 or more patients.

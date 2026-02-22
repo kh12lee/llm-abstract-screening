@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "llm-abstract-screening"
+message: "If you use this software, please cite the associated manuscript."
+type: software
+authors:
+  - family-names: Lee
+    given-names: Kyunghwa
+
+repository-code: "https://github.com/kh12lee/llm-abstract-screening"
